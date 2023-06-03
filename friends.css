@@ -1,0 +1,10 @@
+.pic {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+  
+figcaption, h1 {
+	text-align: center;
+}
